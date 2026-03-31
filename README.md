@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Denis 👋
 
-<!--
-**dengus14/dengus14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Milwaukee, WI. Recently graduated from UW-Milwaukee with a CS degree.
 
-Here are some ideas to get you started:
+I work mostly in Java and JavaScript/TypeScript — Spring Boot on the backend, React on the frontend. 
+I like building things that are actually interesting to look at, not just functional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for entry-level SWE roles.
+
+---
+
+## Tech
+
+- **Backend** — Java, Spring Boot, Kafka, PostgreSQL, REST APIs
+- **Frontend** — React, TypeScript, Next.js, Three.js, Vite
+- **Mobile** — React Native, Expo
+- **Tools** — Docker, Git, Maven, H2, Jsoup
+
+---
+
+## A Bit About Me
+
+- 🏋️ At the gym 6 days a week
+- 🎮 Dota 2 player
+- 🚗 Work on cars with friends
+- 🌎 Been to Rio de Janeiro, want to travel more
+- 🇷🇺 Speak English and Russian
