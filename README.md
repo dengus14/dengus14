@@ -21,5 +21,5 @@ Currently looking for entry-level SWE roles.
 ## Fun facts:
 - 🏋️ At the gym 6 days a week
 - 🚗 Work on cars with friends
-- 🌎 Been to Rio de Janeiro, want to travel more
+- 🌎 Been to Brazil, Portugal, Spain, Russia, Mexico
 - 🇷🇺 Speak English and Russian
